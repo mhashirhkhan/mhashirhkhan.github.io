@@ -4,7 +4,8 @@ title: "Contact"
 author_profile: true
 ---
 
-DM me on [Twitter](https://x.com/samihakani) or [LinkedIn](https://www.linkedin.com/in/samihakani/)!
+* Email: hashirk665 "at" gmail "dot" com
+* LinkedIn: [mhashirhkhan](https://www.linkedin.com/in/mhashirhkhan/)
 
 <!--
 ## Locations of key files/directories
